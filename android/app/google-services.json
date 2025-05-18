@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "482970269480",
+    "firebase_url": "https://rhytham-7ad0f-default-rtdb.firebaseio.com",
+    "project_id": "rhytham-7ad0f",
+    "storage_bucket": "rhytham-7ad0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482970269480:android:73125f3122a8ddc012021d",
+        "android_client_info": {
+          "package_name": "com.app.breathsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpvtPMv9Ba76yJWVrR8LLSXgJ_Qsy8mvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
